@@ -1,10 +1,10 @@
 name: mml_hello
-description: A new Flutter package project.
+description: This is a sample flutter package with HelloWorld widget.
 version: 0.0.1
-homepage:
+homepage: https://github.com/MyoMin-Latt/mml_hello
 
 environment:
-  sdk: '>=3.1.2 <4.0.0'
+  sdk: ">=3.1.2 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
